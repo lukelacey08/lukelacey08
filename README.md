@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @lukelacey08
+- 👀 I’m interested in connecting physical to digital work
+- 🌱 I’m currently learning node js
+- 💞️ I’m looking to collaborate on front end and backend api requests
+- 📫 How to reach me 9168249094
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Film school graduate
